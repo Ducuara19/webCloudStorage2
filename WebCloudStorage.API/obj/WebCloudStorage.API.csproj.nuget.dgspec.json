@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStrorage.csproj": {}
+    "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStorage.API\\WebCloudStorage.API.csproj": {}
   },
   "projects": {
-    "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStrorage.csproj": {
+    "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStorage.API\\WebCloudStorage.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStrorage.csproj",
-        "projectName": "WebCloudStrorage",
-        "projectPath": "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStrorage.csproj",
+        "projectUniqueName": "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStorage.API\\WebCloudStorage.API.csproj",
+        "projectName": "WebCloudStorage.API",
+        "projectPath": "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStorage.API\\WebCloudStorage.API.csproj",
         "packagesPath": "C:\\Users\\Juan Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoAplicación\\WebCloudStorage\\obj\\",
+        "outputPath": "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStorage.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,14 +40,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.10, )"
             },
-            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
-              "suppressParent": "All",
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -61,23 +60,15 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.10, 7.0.10]"
-            }
-          ],
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "browser-wasm": {
-          "#import": []
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xzoeitNqGhoRIpiD15BNtZCXV5gji+NQtml6ByPk9mcOhwxobTvLnHhKIe/pM85oEIK3toEnmMpdHOGKRaWFSA==",
+  "dgSpecHash": "lFdpiH2s2Tt252S5KCv2KcVmWFD3haXlHj55gi0OfhpJ7dspw36gFGOGJr/dmlzhnu2AVO32wCi1hXtWI+6bGg==",
   "success": true,
-  "projectFilePath": "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStrorage.csproj",
+  "projectFilePath": "C:\\ProyectoAplicación\\WebCloudStorage\\WebCloudStorage.WEB\\WebCloudStorage.WEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan Fernando\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.10\\microsoft.aspnetcore.authorization.7.0.10.nupkg.sha512",
     "C:\\Users\\Juan Fernando\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.10\\microsoft.aspnetcore.components.7.0.10.nupkg.sha512",

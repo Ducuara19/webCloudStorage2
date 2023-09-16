@@ -7,43 +7,43 @@ build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
-build_property.RootNamespace = WebCloudStrorage
-build_property.RootNamespace = WebCloudStrorage
-build_property.ProjectDir = C:\ProyectoAplicación\WebCloudStorage\
+build_property.RootNamespace = WebCloudStorage.WEB
+build_property.RootNamespace = WebCloudStorage.WEB
+build_property.ProjectDir = C:\ProyectoAplicación\WebCloudStorage\WebCloudStorage.WEB\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\ProyectoAplicación\WebCloudStorage
+build_property.MSBuildProjectDirectory = C:\ProyectoAplicación\WebCloudStorage\WebCloudStorage.WEB
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/ProyectoAplicación/WebCloudStorage/App.razor]
+[C:/ProyectoAplicación/WebCloudStorage/WebCloudStorage.WEB/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ProyectoAplicación/WebCloudStorage/Pages/Counter.razor]
+[C:/ProyectoAplicación/WebCloudStorage/WebCloudStorage.WEB/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ProyectoAplicación/WebCloudStorage/Pages/FetchData.razor]
+[C:/ProyectoAplicación/WebCloudStorage/WebCloudStorage.WEB/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ProyectoAplicación/WebCloudStorage/Pages/Index.razor]
+[C:/ProyectoAplicación/WebCloudStorage/WebCloudStorage.WEB/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ProyectoAplicación/WebCloudStorage/Shared/SurveyPrompt.razor]
+[C:/ProyectoAplicación/WebCloudStorage/WebCloudStorage.WEB/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ProyectoAplicación/WebCloudStorage/_Imports.razor]
+[C:/ProyectoAplicación/WebCloudStorage/WebCloudStorage.WEB/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ProyectoAplicación/WebCloudStorage/Shared/MainLayout.razor]
+[C:/ProyectoAplicación/WebCloudStorage/WebCloudStorage.WEB/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-ht6jato4fb
+build_metadata.AdditionalFiles.CssScope = b-xoy9z4p7ta
 
-[C:/ProyectoAplicación/WebCloudStorage/Shared/NavMenu.razor]
+[C:/ProyectoAplicación/WebCloudStorage/WebCloudStorage.WEB/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-kjteqgipyz
+build_metadata.AdditionalFiles.CssScope = b-quum03en6n
