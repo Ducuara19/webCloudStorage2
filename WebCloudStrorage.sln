@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCloudStrorage", "WebCloudStrorage.csproj", "{C8F5C7A8-3AA6-4396-BEA8-848970DB18B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCloudStrorage.Shared", "WebCloudStrorage.Shared\WebCloudStrorage.Shared.csproj", "{E703B5A4-081A-4F86-A313-EE9A578BCDD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCloudStrorage.API", "WebCloudStrorage.API\WebCloudStrorage.API.csproj", "{47187411-43D8-40A9-BC03-D02814376B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCloudStrorage.WEB", "WebCloudStrorage.WEB\WebCloudStrorage.WEB.csproj", "{A9939E94-79B2-4D22-BD7B-965D90B4585A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C8F5C7A8-3AA6-4396-BEA8-848970DB18B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8F5C7A8-3AA6-4396-BEA8-848970DB18B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8F5C7A8-3AA6-4396-BEA8-848970DB18B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8F5C7A8-3AA6-4396-BEA8-848970DB18B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E703B5A4-081A-4F86-A313-EE9A578BCDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E703B5A4-081A-4F86-A313-EE9A578BCDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E703B5A4-081A-4F86-A313-EE9A578BCDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E703B5A4-081A-4F86-A313-EE9A578BCDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47187411-43D8-40A9-BC03-D02814376B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47187411-43D8-40A9-BC03-D02814376B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47187411-43D8-40A9-BC03-D02814376B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47187411-43D8-40A9-BC03-D02814376B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9939E94-79B2-4D22-BD7B-965D90B4585A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9939E94-79B2-4D22-BD7B-965D90B4585A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9939E94-79B2-4D22-BD7B-965D90B4585A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9939E94-79B2-4D22-BD7B-965D90B4585A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
